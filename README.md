@@ -6,3 +6,5 @@
 #[LAB 06]( https://github.com/2303a51687/AIML-2024-25/blob/main/AIML%20LAB06.ipynb)\
 #[Lab 07](https://github.com/2303a51687/AIML-2024-25/blob/main/AIML%20LAB07.ipynb.ipynb)\
 #[Lab 08](https://github.com/2303a51687/AIML-2024-25/blob/main/Lab08-AIML.ipynb)
+#[Lab 09](https://github.com/2303a51687/AIML-2024-25/blob/main/AIML%20LAB09.ipynb)
+
